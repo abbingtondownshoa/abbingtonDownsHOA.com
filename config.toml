@@ -1,0 +1,55 @@
+baseurl         = "https://abbingtondownshoa.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Abbington Downs HOA"
+  subtitle    = "Spring Hill, TN"
+
+  cover       = "header.png"
+  description = "This site is for the abbington downs community"
+  metaDescription = "abbington downs"
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+
+  fbName = "1489127014489113"
+
+  logo = ""
+  orgName = "EM"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Chris Mobley"
+  authorAvatar = "profile.png"
+  authorLocation = "Spring Hill, TN"
+  authorWebsite = ""
+  authorDescription = "Developer/Database Engineer"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/tags/main/"
+  weight = 200
+
+
+[[menu.main]]
+  name = "Documents"
+  url = "/categories/documents/"
+  weight = 99
+
+[[menu.main]]
+  name = "Hometown Property Management"
+  url = "http://www.hometownpm.net/"
+  weight = 95
