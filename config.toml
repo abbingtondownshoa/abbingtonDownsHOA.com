@@ -20,15 +20,15 @@ paginate        = 6
   fbName = "1489127014489113"
 
   logo = ""
-  orgName = "EM"
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  orgName = "ABBINGTON DOWNS"
+  orgWebsite = "https://www.abbingtondownshoa.com"
+  orgDescription = "Community Website for Abbington Downs Spring Hill, TN"
 
   author = "Chris Mobley"
   authorAvatar = "profile.png"
   authorLocation = "Spring Hill, TN"
   authorWebsite = ""
-  authorDescription = "Developer/Database Engineer"
+  authorDescription = "HOA Treasurer"
 
   pageNotFoundTitle = "404 - Page not found"
 
