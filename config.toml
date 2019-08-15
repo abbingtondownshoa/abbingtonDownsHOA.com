@@ -40,7 +40,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Home"
-  url = "/tags/main/"
+  url = "/tags/Home/"
   weight = 200
 
 
