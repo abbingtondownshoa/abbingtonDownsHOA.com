@@ -10,4 +10,14 @@ type = "page"
 weight = 111
 
 +++
-Content about HOA Board is here
+Board Members
+
+President: Al Nickel
+
+Vice-President: Dirk Peterson
+
+Secretary: Austin Epps
+
+Treasurer: Chris Mobley
+
+Member-at-Large: Chris Brown
