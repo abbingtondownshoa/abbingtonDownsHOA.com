@@ -5,6 +5,6 @@ draft: false
 image: "hamilton.jpg"
 tags: ["Home"]
 ---
-This site is currently under consrtuction.  Please check back soon for updates! For up to date information here is the 
+This site is currently under construction.  Please check back soon for updates! For up to date information here is the 
 [Community Facebook Page](https://www.facebook.com/groups/1489127014489113/)
 
