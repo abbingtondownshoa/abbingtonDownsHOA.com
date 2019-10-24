@@ -8,7 +8,7 @@ categories: ["documents"]
 
 >The Annual Meeting of the Abbington Downs Homeowners’ Association will be held:
 
->Monday, October 7, 2019
+>Thursday, October 24, 2019
 
 >At 6:30 pm
 
@@ -16,8 +16,8 @@ categories: ["documents"]
 
 >4213 Kedron Road, Spring Hill, TN 37174
 
->The purpose of the meeting is to discuss the status of the Abbington Downs community and its business for the membership. An election will be held at the meeting for board members. If you are interested in volunteering for the board, please complete the enclosed Board Candidate Nomination form and return it to Hometown Property Mgmt. by Friday, October 4thth at 5:00 pm.
+>The purpose of the meeting is to discuss the status of the Abbington Downs community and its business for the membership. An election will be held at the meeting for board members. If you are interested in volunteering for the board, please complete the enclosed Board Candidate Nomination form and return it to Hometown Property Mgmt. by Friday, October 18th at 5:00 pm.
 
 >Proxies are enclosed for execution by those individuals who will be unable to attend the meeting. Please complete the proxy by assigning it to a neighbor who will be attending the meeting to ensure that you are represented at the annual meeting. You may also return the proxy to Hometown Property Management, LLC.
 
->We look forward to seeing you on October 7, 2019.
+>We look forward to seeing you on October 24, 2019.
