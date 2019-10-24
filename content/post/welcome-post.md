@@ -5,6 +5,6 @@ draft: false
 image: "hamilton.jpg"
 tags: ["Home"]
 ---
-REMINDER HOA MEETING IS TONIGHT @ 6:30PM!  This site is currently under construction.  Please check back soon for updates! For up to date information here is the 
+REMINDER THE ANNUAL HOA MEETING IS TONIGHT @ 6:30PM!   Please check back soon for updates! For up to date information here is the 
 [Community Facebook Page](https://www.facebook.com/groups/1489127014489113/)
 
