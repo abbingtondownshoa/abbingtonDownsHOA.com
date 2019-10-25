@@ -16,6 +16,8 @@ President: Al Nickel
 
 Vice-President: Dirk Peterson
 
-Treasurer: Chris Mobley
+Secretary: Chris Mobley
 
-Member-at-Large: Chris Brown
+Treasurer: Chris Brown
+
+Member-at-Large: David Moore
