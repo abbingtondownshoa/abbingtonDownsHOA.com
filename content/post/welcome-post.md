@@ -5,6 +5,6 @@ draft: false
 image: "hamilton.jpg"
 tags: ["Home"]
 ---
-REMINDER THE ANNUAL HOA MEETING IS TONIGHT @6:30PM! Please join the 
+Please join the 
 [Community Facebook Page](https://www.facebook.com/groups/1489127014489113/)
 
